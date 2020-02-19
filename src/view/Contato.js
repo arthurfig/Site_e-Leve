@@ -44,7 +44,7 @@ const ContatoAsk = styled.div `
 const Form = styled.form `
 `
 const Nome = styled.input `
-    width:10%;
+    width:100%;
 `
 const Mensagem = styled.textarea `
     height: 300px;
